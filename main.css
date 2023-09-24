@@ -1,0 +1,41 @@
+html {
+    background-color: beige;
+    height: 100%;
+    width: 100%;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray; 
+}
+
+header {
+    background-color: lightskyblue;
+}
+
+h1 {
+    font-style: italic !important;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-skip-ink: none;
+}
+
+nav ul{
+    list-style-type: square;
+}
+
+ol {
+    list-style: lower-roman;
+    line-height: 2;
+}
+
+section {
+    font-weight: bold;
+    color: cadetblue ;
+}
+
+footer {
+    text-align: right;
+    background-color: lightgreen;
+    font-size: small;
+}
